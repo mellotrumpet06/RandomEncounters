@@ -100,15 +100,310 @@ Swamp:
 99	The party comes across an ancient and crumbling temple hidden within the swamp. As they explore the ruins, they are confronted by a group of cultists performing a dark ritual to summon a powerful swamp demon.
 100	The party comes to some scraggy trees with bat-like creatures hanging from them. Will they disturb the sleeping stirges or recognize the danger and sneak past?
 
-
 Forest:
-
-
+1	A great elk is seen watching the party from a distance. It almost looks as if the elk is wearing a crown made of twigs and vines.
+2	A party member trips on a hidden rock. As they are falling, they feel as though they are being ‘caught’ before hitting the ground. A nearby ent uses it’s vines to catch the player before they hurt themselves.
+3	A gnome tinkerer rides past the party going the opposite direction. He appears every three hours of travel until the party buys something.
+4	A pair of wood elves are seen setting traps for poachers. If the party proves to be friends of the forest, the elves will take them to an extradimensional nature preserve full of extinct and oversized creatures.
+5	A water elemental and an earth elemental are seen attempting to make plant babies.
+6	An old twisted tree sits shortly off the path. It radiates a dark energy. If the tree is damaged, it will begin to leak a monster that grows from unnatural pollution (we’re ripping off Fern Gully here).
+7	3d6 elvish, gnomish, human, and children are playing a game of tag in the forest.
+8	As the party approaches, they see a fawn, a rabbit, and a skunk run off to hide in the bushes (Bambi).
+9	It is black as night underneath one tall tree, everywhere else the light comes through as normal.
+10	An umber hulk is snacking on a small bear.
+11	A camouflaged giant trapdoor spider nest, 15 feet in diameter.
+12	You past through a barren section of the forest that was damaged about a decade ago by a forest fire. In the middle of this relative desolation, you find a circle of trees that seems untouched by fire that destroyed the surroundings.
+13	A group of goblins arguing over directions.
+14	An awakened tree stands motionless until in striking range of the party! Who or what brought this tree to life?
+15	A group of tribal warriors who jump the party in the forest. All of the warriors are nude, and wear body paint to mark how many kills they have.
+16	In the high tree tops of the forest an unknown enemy waits to attack the weakest creature that wonders by. The Panther is black with white spots on its head, and will attack anything that moves.
+17	A satyr has welcomed the group to a festival. If the invitation is accepted, the group gets to drink honey flavored ale and eat campfire cooked fish and fruits with the satyr and his 2 friends.
+18	A faerie dragon is being attacked by a lemure. If helped, the dragon will repay the party with 15 gp each and a little container of honey.
+19	The party finds a scared injured owlbear cub hiding under a large bush. The party can choose to leave it, or keep it and nurse it back to health.
+20	A massive mastiff comes bounding by, shortly followed by an exhausted warrior holding a leash attached to a broken collar.
+21	The party finds a well labeled “wishing well: insert money for fortune.” Every (PC level) gp thrown in adds grants the “lucky” feat for one hour, or until used.
+22	A NE goblin is trapped in a giant spider’s web. If the players approach, the goblin untangles himself and attacks as a Druid alongside the spiders.
+23	A door standing upright in thick bushes completely ignored by nature. If a player opens the door a small cabin interior is found and the faint aroma of cooked meats float out.
+24	A party member swears they can hear the crows mumble actual words from time to time. If the party quiets down enough the party member will hear that the words are cardinal directions. If heeded, the crows will continue to guide the party to a giant crow sleeping on a nest of treasure.
+25	A party member trips and falls against a tree, but instead of making a wooden thunk a hollow reverberation is heard. Further inspection will lead the party to find tree is hollow with a small metal box inside, containing items that they had lost.
+26	The party comes across a thick tree, filled with 2d6 big wasp hives. If they stay around for too long, they are attacked by the same number of wasp swarms.
+27	The party comes across a river, filled with piranhas. There is no bridge, though.
+28	A lightning storm begins, and several trees are struck with lightning. However, some of them don’t burn, instead they just become electrified, and creatures around them randomly receive small discharges, taking 1d6 electric damage per turn. The party is then attacked by monsters.
+29	A mammoth is heard, trumpeting, running and toppling trees nearby. It will attack the party on sight, if they fail to hide. If they choose to investigate, they will discover hunters killed the rest of the herd to take the ivory.
+30	The party comes across a random inn. If they choose to enter, it will catch on fire, right in the middle of whatever they were doing in there.
+31	A pale female Aasimar and 7 male Dwarven miners are seen heading home. They won’t stop singing and she swears it’s platonic.
+32	An emotionally disheveled girl in a red hooded cape offers to sell you a dire wolf pelt for 20 GP or the deed to her deceased grandmother’s cabin for 500 GP.
+33	You encounter a logging camp with a storm giant, his comically large axe, and his blue dire ox.
+34	A pack of goblins on wolf-back runs by the party too scared to stop, followed by two bears and two druids in hot pursuit.
+35	A druid pops out of a tree yelling ‘Anyone wanna buy some sage or mushrooms?!’ It’s not sage, the mushrooms are legit though.
+36	The party finds a wagon with a busted wheel. The former owner left his horse, Ed, attached to the cart to die. Ed speaks Common. There’s a barrel of water, four bottles of wine, two carpets, pots, pans, and hay with carrots for Ed in the back. The wheel is able to be temporarily fixed with a belt or rope.
+37	A flock of blue green birds that attempt to lead the party to a forgotten shrine to a minor nature spirit.
+38	A large and beefy stag appears, full of delicious venison just waiting to be claimed by your party. Once the creature is downed and retrieved, its tough hide is ready to be removed. One small incision reveals something truly horrific, however. Its body has been stuffed with the eggs of a vile creature! Suddenly, squishy cracking sounds can be heard, and the carcass begins to slowly writhe…
+39	A fox and mastiff run in front of you. The party can tell they’re best friends.
+40	You find a male human sleeping and covered in cobwebs. He’s been there for a while. Apparently he lost a drinking contest to the feyfolk 25 years ago.
+41	You see a human trapped in a bear trap. Upon release she shifts into bear form and runs away.
+42	A herd of wild horses and centaurs are seen running through a glade.
+43	A male dwarf and his cougar step out of the bushes in front of the party. She says ‘Hi.’ to the party.
+44	An archer, cleric, rouge, and large barbarian attempt to rob the party. It Sherwood be nice if you got along.
+45	The party sees a house made of candy just off the path. You hear the hag inside lamenting building it so deep in the forest.
+46	A group of fairies are seen tormenting a pair of orphaned wolf pups. The party can scare the fairies off easily enough but the pups need someone to look after them.
+47	The party encounters a two story crack 3 meters up in a tree…filled to the brim with an abnormally large bee hive full of honey.
+48	The party comes across an all male village of blue sprites. The one with the red hat and beard appears to be the leader. They live in hallowed out mushrooms.
+49	You see a paralyzed boy being drawn on a sled by a half giant. He’s accompanied by three other children. One is his little brother and they’re heading North after their family was slaughtered. No spoilers.
+50	You meet a human female archer with red hair. She calls you fools and keeps saying, ‘When I find that bastard…I’m gonna kill ’em!’
+51	You find an old hermit hut with the dead man still in his bed. His mastiff, Mēko, needs a new master.
+52	A lost warband of wood elves offer you trade for supplies and rations.
+53	The god Solonor Thelandira appears and gives gifts to any elves or half elves in the party.
+54	The party approaches a camp of 5 dead kobolds. They seem to have been reaching for their weapons. Strangely, there are no cuts or bruises. If the the party stays there for more than an hour, 1D4 cloakers descend from the trees and assault them. If they stay there overnight, they will be woken up by an attack from 1D8 cloakers as well as a swarm of rats which get killed by the cloakers.
+55	An elven child runs to the party, crying. A group of 1D6 names and 1D4 cultists approach the party. One of the cult members demands that the party hands back their sacrifice to their new fiend acquaintances.
+56	A very friendly gnome running a little shop greets the group. He says he used an awaken spell on the flowers he sells. He’s selling them in bunches for 25 gp each. He’s also selling fireflies in jars for 15 gp each as well as giant fire beetles in jars for 20 gp each.
+57	A werebear wearing a pair of jeans and a park ranger hat with “SMOGGY” written on it approaches the party and gives them a 1D10 hour lecture on how you should be careful using fire or fire related spells in forest areas. Once finished, he tells the party “Only YOU can prevent a forest fire.” and proceeds to ride off on the back of an owlbear.
+58	A very wide tall tree, with a hollow opening 60+ feet up. Should a player look in, they see nothing down the hole. A few moments later they are pushed into the hollow by an unseen enemy. The tree is infested with phase spiders.
+59	A tribe of Firbolg are seen disappearing into a tree. They look sad and hurried to leave.
+60	You see a dryad summon three 30 ft. spikey, coiled wooden tendrils and just pummel a mimic to death.
+61	You catch a gnome in the mouth of a bear. He screams, ‘This isn’t what it looks like!’ As they both run into the bushes.
+62	A halfling and thirteen dwarves are being chased by giant spiders. If you help them they may give you something precious to them.
+63	You see a trail of ravens eating bread crumbs. Off in the distance are an orphaned brother and sister. They beg you to murder their shity stepmother since this is the third time she’s made their father do this.
+64	Entering a marshy part of the woods you find a dire rat’s nest. Aside from the rodents of unusual size the marsh gases erupt randomly doing 1d4 fire damage.
+65	While keeping watch, you notice a glimpse of something white flitting between the trees in the corner of your eye. You turn to look but it’s gone. Feeling the hairs on your arm stand up, you whirl around to see a sad, filthy woman wearing a torn white robe standing at the edge of your encampment. She opens her mouth hideously to scream, but only blood spills from her lips, staining her white clothes. In a flash she flies toward you with arms outstretched. A jolt runs through your body as your eyes snap open and you realise you had nodded off…
+66	A ska band made up of humans and elves live up in a tree.
+67	A human, dwarf, and elf prince are searching for a certain wizard.
+68	A Warforged holding an ax has rusted near a felled tree. If only someone could find his oil can and free him up…
+69	A herd of 500 reindeer and their nomadic half elven caretakers are driving them north. They can trade for furs, meats, reindeer mounts, and cold weather clothing.
+70	You see an ent trapped between two boulders. Upon freeing him he grants you all 2 hours of Barkskin.
+71	You come across a marriage ceremony between an elf and a human. It’s held in secret because of the hatred between their two families.
+72	You find four halflings being grappled by the roots of an awakened tree. They have a precious reward if saved.
+73	The party encounters 1d4 worg scouts. If not killed in 5 rounds then 1d4 goblins on worg-back ride in.
+74	The party encounters three bears eating the corpse of a blond female. They revert to human form once they die and their recently ransacked cottage is nearby.
+75	As the party is traveling through the forest, a shrieker sounds off. A thug jumps in front of the group, nothing but commoner clothes and a dagger. They are very easy to persuade, and even easier to intimidate.
+76	The party comes across a small fenced garden, growing some carrots and potatoes. The smell of stew fills the air, and a gnome appears, and invites them to have a meal.
+77	An incredibly large tortoise is bound in place by ropes apparently put in place by hunters, it looks at the party with sad but remarkably intelligent eyes.
+78	You come across a dryad as it strides across the path between thickets. It turns to look at you. In it’s arms is a happily cooing half orc child.
+79	A bear with three arms wanders around roaring, it freaks out at the sight of humanoids. If you can get closer you can see the third paw is bloody due to a large splinter.
+80	The party encounters 1d4 druids that wild shape into wolves and run when startled.
+81	A sprite throws a glittery dust bomb at the shortest member of the party and disappears. That night a female mountain lion nuzzles up to them and is very friendly. Too friendly…
+82	In an old part of the woods four female Treants are being held captive by a trio of hags. If rescued they offer a primal medallion that allows a player to create 1 awakened shrub per day.
+83	A group of Firbolgs are tending to an injured friend. The dead orc slavers must’ve thought there was just one.
+84	Deep in the woods you find a sword lodged in a stone surrounded by thorny vines that drip poison.
+85	The party stumbles upon a Treant nursery. They’re cute, but you have three minutes until their mothers arrive.
+86	A small elemental starts a forest fire that quickly covers the forest.
+87	A large owl and a large squirrel chase after a terrified goblin.
+88	You meet an elvish veteran of the last war. He’s still in survival mode under orders and it’s up to the party to convince him to go home.
+89	A traveling caravan of friendly Tabaxi has circled the wagons for the night. When you approach and sit near the fire twenty more Tabaxi come down from the trees to meet you. They are armed to the teeth, but friendly. Seems like a nice and safe place to sleep for the night.
+90	You find a human ranger named John Ramco being chased by 1d4 Orcs. He has a giant knife and asks you to help him set an ambush.
+91	You come to the house of a well known Goliath druid Jëorn that is notorious for shifting into a bear and killing entire packs of orcs. He offers you lodging for the night, milk, cheese, honey, and rental horses.
+92	A tinker Gnome and her two Warforged friends have created a giant dragon construct made of wood. They plan on scaring off the local tribe of orc slavers with it.
+93	You find 1d4 goats near a bridge over a stream. Troll encounter optional.
+94	The party stops just in time to see an endangered herd of aurochs. All 30 to 40 appear to be moving to another glen to graze. Stay low and be quiet.
+95	Four teenage humans and a dog that speaks common have a minotaur tied up. They remove the mask to reveal an old Dwarf just as the nearby city guards arrive to take him away.
+96	You find a circle of earth Genasi petrified in worship of a giant, floating, glowing red crystal. Any interference causes the crystal to lash out at you with eldritch red bolts of fire and lightning laced shards. These would make great arrow heads…
+97	An Oath of the Ancients half elf paladin and her 6 party members have just dispatched a raiding party of Drow. She allows you to loot the bodies under the condition you give them a proper burial.
+98	You find a group of 8 escaped Drow children that ran from their slavers. They are tired, beaten, and hungry.
+99	You approach a gibbet tree that has four men suspended in cages and two women in pillories at the base. They beg for mercy, but the silver etchings on the constraints is a dead giveaway something’s not right here.
+100	The party comes across a Dwarven homestead in a little valley where they harvest maple syrup.
 
 City:
+1   There's a loud crash, when a drunkard flies through the window of the nearby tavern. Another man walks out and yanks him up. Looks like the fight isn't over yet.
+2   You hear laughs, some music and a high-pitched voice, when at the crossroads you see a colorful wagon. Gnomish tinkerer, who appears to own it, challenges passerbies to games of chance and contests of skill, offering common magic items as reward for lucky winners.
+3   A kid cries nearby a big tree. It asks whomever walks by to help it get its kitten from the highest branch.
+4   There's a crowd at local plaza, surrounding town's gallows. There's an exexution ongoing. Guard captain reads aloud convict's crimes and people start murmuring. Apparently not everyone believes in prisoner's guilt.
+5   During an evening walk, you hear a romantic poem being recited from nearby alley. A young man is singing praises to his mistress, who looks out of a window above him. Suddenly, doors of a building open and a big, red-faced man, either father or husband of the woman, emerges, seeming intent on giving the young Casanova a piece of his mind.
+6   A nimble thief steals a magic item from the party, It's a skill challenge as you race after the culprit.
+7   You see an old man seated on a cushion in a crowded market. He speaks in a low tone of mysterious tales to the children crowded around him.
+8   A corpse hangs from a nearby gallows. Some children are gathered round it and are throwing stones at the corpse. From the look of the corpse, it appears to have recently been executed.
+9   A small group of children nearby are throwing a rock from child to child. You hear glass shatter, and the children quickly disperse. A passed Perception/Intuition check will alert you to the imminent angry shop owner looking for who threw a rock through his window, demanding reparation from the first person he sees.
+10  An old (wo/)man comes to your group and ask for help finding his/her home.
+11  You hear the mewing of an abandoned kitten in the alley.
+12  Stray dogs rummage in the trash.
+13  A falcon swoops down and grabs a pigeon.
+14  A man juggles on a unicycle.
+15  You see a member of a normally mostrous species dressed all ritzy and hobnobbing with human/demihuman members of high society as an equal.
+16  A cat waits beside the road, charging and nipping at the ankles and dresses of passerby (+5, 1d4-1 piercing)
+17  A young woman shyly approaches the party and asks them to deliver a sealed letter to the blacksmith’s apprentice on the other side of town
+18  Children are chasing a stray dog, who appears to have something ties to their tail
+19  Tiefling street performers sing and dance for coin
+20  Drunk man mistakes a party member for a long lost lover/child/friend
+21  You take a wrong turn down one of the grubbier alleys in an already grubby tangle of narrow streets. You keep going as surely you'll rejoin one of the main ginnels this connects to in a monument. But as you turn another corner through, kicking through the detritus and garbage of this dump of a cut-through, you are faced with a dead end. But at the end of this alley, against the lichen and moss covered brick of some ancient slop-house, leans an odd stone idol, its weathered and pitted form is surrounded by a perfect semi circle of silent rodents, insects and worms, all facing the statue, heads bowed into the muck. You had better find another way back to the street. The vermin gods despise pink bipedal apes.
+22  The PCs find evidence of a burglary in a jewelry store, and the owners seem very reluctant to contact the town guards; for a small reward, they're willing to pay for the location of the thieves in question.
+23  The town butchers are having what looks like some kind of rally behind w a warehouse. Judging from the rhetoric on offer, they're not going to have a peaceful protest within the next few days.
+24  The constabulary give chase to a group of orphans, looking determined and with obvious hostile intention. For some reason, this doesn't feel like it should be happening in broad daylight.
+25  The inn where the PCs are staying is hosting a poetry reading by local bards; clever listeners can catch the secret code being given to select members of the audience.
+26  Someone stole every wheel from the coaches and wagons parked within a three block radius of the palace; witnesses say that it was done by robed members of the guard, others that it was a group of beggars.
+27  In an alley way, the PCs find a discarded set of clothes, enough for twelve or more people, all covered in a fine blue dust and smelling of seawater and fish blood; despite being inland by several hundred miles, it smells fresh and is still damp to the touch.
+28  A window is open with a lady changing. Whether the pcs look in the window or not a furious husband will come out threatening to call the law. He will however forget it for some gold.
+29  A tug of war contest in the city Square. Winning team gets free lodging at a nice inn for a week.
+30  A factory manager has quick work for a high profit. You dont find out until you arrive at the job site that you have to cross a picket line.
+31  A little girl had her teddy bear stolen by the local bullies. She needs someone to get it back.
+32  Fruit pickers of "strong constitution" are needed. The fruit is coated in a psychedelic substance that makes the pcs hallucinate.
+33  There's a fire! The city needs all hands to rush water to the burning houses.
+34  A very drunk noble lost the diplomat he needed to impress in a drunken sloppy night on the town. He needs someone who's not so hungover to retrieve him. The diplomat has fallen in love with a prostitute and is about to forsake his family name
+35  The lions escape from the zoo! Grab them before anyone gets hurt.
+36  A surgeon needs tools from the blacksmith for an emergency surgery! Someone honest and brave will have to grab them and tout the very valuable instruments across town.
+37  Two of a noble house’s guard run to you, asking if they have seen someone from their house. They explain that their charge had gone out to a tavern, and run off very drunk. The two guards ask you for help, promising payment for your aid.
+38  A small market is set up on a wide streetside. Trinkets and old clothing laid out on blanket-topped folding tables. Players can try to see if they can find any common magic items among the junk for sale.
+39  There are overhanging windows two and three storeys above the street, which slopes on both sides into the gutter. A maid tosses bathwater into gutter from a top storey window, there's a dexterity check to avoid getting filthy water on your clothes.
+40  A horse comes cantering past with a yelling man running after it. Anyone who can calm and capture the horse might get an excellent reward from the groom who lost it.... Or a hoof to the thigh if the horse won't calm down...
+41  You notice that the buildings in this neighborhood all have little shelves by the door, each one holding a glass of pink wine. As you approach one for a closer look, you suddenly see 2d4 pixies swarm out of nowhere and drink the wine. They hiss at you if you try to get too close. Later, you see more pixies vandalizing a house whose wine dish is empty. (Alt: swap the pink wine with blood for a darker aesthetic.)
+42  A foreign-looking warrior is arguing with a pair of town guard. The warrior is looking for an criminal she thinks is hiding in town but, after harassing the wrong person, the guards are kicking her out of the city. She'll try to get the players to search for her target.
+43  A stranger of the character's desired gender seems to fall in love at first sight with one of the PC's. The stranger approaches and attempts to convince the PC to give their love a chance.
+44  A young girl, appearing very frightened, is stuck up a scaffold. At the base of the structure, an agitated dog is barking ferociously up at her. She will call for help.
+45  A baker is giving out free samples of a few new, experimental flavors of muffin he has cooked up.
+46  A runaway wine barrel rolls down the street
+47  A farmers flock / herd of (ducks / geese / pigs / sheep) got spooked on the way to the market. The animals are running down the streets in different directions. The farmer request anyone's help in getting them back.
+48  They are holding an auction for the estate of an (adventurer / wizard). There could be some interesting items for sale.
+49  Three tiefling children in a cloak stumble out of a confectionery shop, arms and mouths full of sweets. As the shop owner shakes a soup ladel at them, the three scamper down an alley with their [obviously] ill gotten gains.
+50  A procession of musicians in brightly coloured garb spill out of an alleyway just in front of the party, blocking their path. Feel free to throw this one in the middle of a city chase for extra annoyance.
+51  Two bards on opposite sides of the town square have a Bard-off, seeing who can gather the biggest audience.
+52  A bard challenges one of the party members to a musical/poetic/flyting duel. For extra hilarity, have this bard focus on a non-bardic party member, even if the party bard looks obviously bardic.
+53  A teenaged villager swaggers up to the party, looking for a confrontation as a group his friends shout encouragements from a distance.
+54  As the party walks by a ajar door, they hear an "oops" followed by an explosion deeper within that shakes the street.
+55  Another adventurer attempts to woo a pair of ladies. One of them has enough, slaps him in the face and walks off in a huff.
+56  It's guild recruitment day. The members of various guilds set up stalls and stand at street corners handing out flyers and pitches, hoping to entice fresh blood to join.
+57  A comely lady/man of the night propositions one of the party members. You got to admit, their rates are affordable.
+58  As the party enters the city, a sleazy man helpfully points out all of the brothels, seedy joints and all manners of sins and vices the party can partake in during their stay
+59  On a hot day, a “battle” breaks out between two uniformed groups. They are hurling balls of some substance that, upon impact, bursts open and splashes the target with refreshing water. While their “battle” looks competitive in nature, most players are laughing and enjoying themselves.
+60  A butterfly lands on a party member’s nose/shoulder/etc. A nearby guard identifies it as a somewhat rare member of its species and gives a surprisingly detailed rundown of the creature, to the shock of another guard.
+61  The party is roped into a citywide relay race.
+62  A citizen approaches the party and asks for assistance with a marriage proposal. Their request depends on the party’s composition; they may ask for a prayer from a cleric/paladin, or the rogue can sneak the ring onto a treat, or a spellcaster can make a nice effect when the question is popped, etc.
+63  A snakeoil salesman hawking their wares calls upon the party and tries to get them to buy some product.
+64  A blind man with linens covering his eyes is begging across from a chapel or tavern. If the adventures drop a coin in his hat he thanks them in a way that could imply he isn't actually blind.
+65  Tiles from a nearby roof drop to the street in front of the players. Someone seems to be slinking across the roof of a nearby building.
+66  A group of children run up to the party. They surround them, laughing and giggling, asking them questions and opening gawking at their weapons and armor. At some unknown signal, the children run off again. At least one player's coin purse has been cut open, it's contents missing.
+67  An elderly woman with milky eyes and gnarled hands, walks up to a player, pointing directly at them (even if they try to move away) and starts to prophesize a doom that will befall the player.
+68  A rotund man is jogging down the street while carrying a large fish. He is very out of breath. He needs to deliver the fish to a restaurant on the other side of town as quickly as possible and is willing to pay if someone will help him with this endeavor. The fish is still alive and weighs about 100 lbs.
+69  A very ugly "elderly lady" is slowly trugging down as the guard rushes pass "her" in search for a small time thief. A cursor look will reveal the old lady is a thin, bald, bearded man in a stolen tattered bed sheet and dolie, but, he is very charismatic and good at acting like a sweet old grandmother.
+70  A famous author is in town for a book signing, but, most of the town is not too keen on reading. You have a handful of fans but the author does not care and is just happy to have people there who are not aiming on killing them or think they are a new prostitute in town.
+71  An white robed man is spotted jumping to their death after climbing to the top of the tallest building into a tiny wheelbarrow of hay. No idea what was going on in his head, but he has a hidden knife on his wrist and a collection of head injuries.
+72  A group of kids are "secretly" following the party. Not too good at it as one is using crawling in an upside down crate, one hides behind a blanket painted like a fence and dog, another is hiding behind their nearest compatriots, and the last just covers their eyes with their hands.
+73  A person's flatulence has caused clear a path through the crowd. The air is nauseating and strangely staying like a stone. the assailant has left them like a thief in the night. Those foolish/daring enough to try or having a constitution of an ogre are using the path as a easier route to get where they need to.
+74  You notice a person in the second floor of a building raise and aim a crossbow.
+75  A noble stops in front of the party, looks down their nose and simply says "move".
+76  A stall on the side of the road hawking meat pies. The owner is very cagey about what he means by 'meat'.
+77  An intoxicated gentleman relieving himself on the side of a building. Bonus points if it's the guards building.
+78	A small crowd gathers in the town square as a young man serenades a maiden with a band of troubadours. As he professes his love and proposes, the maiden takes a bard's lute and smacks him upside the head as she leaves.
+79	A cart wheel flies off and the embarrassed owner needs help getting it back on, as well as directions to the market.
+80	A noble’s pet liger has climbed into a tree and appears to be stuck and in need of aid.
+81	Two local inventors are loudly arguing on a main thoroughfare, blocking your path. They are each accusing each other of being a fraud.
+82	A group of bards posts a flyer for an upcoming theatrical production that is highly critical of the local political powers. You are able to grab one before you see local guards tearing down the flyers and burning them.
+83	A group of children sing an ancient prophecy, which has been slightly modified over the years. Ex. “When the stone bird has fled we’ll get fed (actually prophecy ends in we’ll all end up dead)”.
+84	A person looking up from the sewer grates tells the players he'll exchange secrets.
+85	Your PCs are approached by a hooded and cloaked figure that tries to recruit them to join the local cult. The PCs start to unravel a larger plot where the cult has taken over the local government.
+86	A wizard approaches the party and says he's on the verge of a great breakthrough that will make him rich but he needs some reagents from the herbalist shop. Unfortunately they cut off his line of credit and he cant afford to buy it himself. He implores the party to buy the supplies for him.
+87	A wealthy debutante has decided to leave her wealth behind and begin adventuring, and throws one last soiree before giving away her wealth. The PCs are invited.
+88	A small boy is caught trying to pickpocket the pc's. When he is caught her tearfully tells you that it's for the veteran that was hurt in the war.
+89	There is an incredibly long queue for what seems to be an ordinary building, no sign or anything. Upon asking the people in the line, they simply shrug their shoulders and then go back to waiting. Only way to find out is to queue up.
+90	While walking around the city, the party stumbles upon a small public speech being given by a candidate seeking a position on the city council. It is very clearly three goblins in a trench coat, but no one in the crowd seems to notice.
+91	The local Arcane Academy Campus is in turmoil as students riot after their team lost The Big Game. The city has mobilized its guards and the Arcane Academy has raised a protective barrier.
+92	The Party passes by a funeral procession, but can clearly hear thumping from inside the closed casket and a muffled voice calling out.
+93	Two Bards are in the middle of a poetic battle on the street and are unknowingly riling of a crowd and splitting them into factions ready to fight for their bard.
+94	The Party is walking down the street when a seemingly normal man sneezes. The man immediately loses his concentration and polymorphs into a dragon in the middle of the street.
+95	Town crier calling out that 'Bite-Hunting' is now illegal. Upon further inquiry they are informed that there has been a growing trend in the city of people seeking out to be infected with Lycanthropy.
+96	Baker calling out, claiming to have the 'most delicious bread in the realm', but is clearly selling rocks. Customers don't seem to care and are paying the high price for it.
+97	There is a game of (sport) going on in one of the cul-de-sacs as the Party passes by. The Party hears someone call out to them, they need extra players for each side.
+98	The Party sees a manhole cover flying 20ft into the air and crash down on a stall on the street. People flee in a panic as an ordinary-looking rat emerges from the hole.
+99	The city is suddenly filled with a loud sound akin to tornado alarm. Sirens blare and bounce off the stone walls of the city, but the citizens seem to go about their business undisturbed.
+100	A necromancer is attempting to offer undead labor and has gotten into a legal dispute regarding if zombies need time off or not.
 
-
-
-Town:
+Mountains:
+1   It is migration season, thousands of goats are making their way up the mountain. They are blocking the path the party wishes to cross. To try and pass through them may cause trouble
+2   (Prep needed for exploring the city ruins) The remains of an abandoned city lies quietly in a valley between two great mountains. Evidence for the city’s collapse is not well hidden and perhaps even a bit devious in nature
+3   Friendly Stone Golems patrol the mountains in order to help smaller beings climb to the top. They cannot speak and often throw giant boulders for fun. This can be lead to serious misunderstandings of course
+4   (Prep needed if exploring the kobold city) All of the mountain peaks are covered in snow, all but one. The odd one out is home to a dormant volcano that is home to a small civilization of kobolds/goblins who worship an efreeti who only appears to the kobolds in the shape of a dragon. The efreeti is tricking the kobolds into thinking it is a dragon and would like to keep its ruse going.
+5   Birds in the cliffs nearby have grown to the size of lions due to their lack of competition when it comes to hunting prey. They are intelligent and offer wisdom or mockery depending on their mood
+6   (Prep needed if party wants to do how the Grinch stole Christmas) You discover the cavern of a ghoulish green furred beast that is plotting to attack a nearby town and ruin their festival. This information is easy to discover as there are plans strewn about all over the place
+7   There is a dimensional rift cracking through the stone of this portion of the mountain range, gravity occasionally reverses, and other spontaneous magic effects occur
+8   A ski resort operates on a hidden slope, it is run by Goblins who desire rare metals
+9   (Prep needed if they want to explore further into the mountain) A PC has a near fatal slip which leads to the discovery of an abandoned mineshaft within a deep ravine.
+10  A rickety bridge must be crossed in order for the party to continue on their journey. In the canyon walls is a harpy nest. The harpies live here and attack anyone who attempts to cross the bridge. If they kill the harpies their nest is not easily reachable, but if the party manages to climb into the canyon the harpy will have a few small trinkets they have collected from travelers who were not so lucky.
+11  A lone monk sits peacefully atop of the peaks. They claim to have mastered the art of reversing time
+12  Due to a magical accident hundreds of years ago the mountains radiate elemental energy. Random combustion is not uncommon and neither are Elementals
+13  In the middle of the night a bear has dug into the party’s packs and has stolen the underwear of one party member.
+14  Shattered statues of gold litter the snow, neglected by time. They appear to be adventurers rumored to have gone missing a few months before
+15  A powerful spirit guardian visits the party at night and attempts to lead them to their destination. They either take on the form of a four headed deer or a small white fox
+16  Atop the highest peak is a pool of clean spring water. Rumors say that those who drink from it will find their true love within a week. It is a well sought after ingredient for potion making
+17  Medicinal herbs grow all around the rocky slopes of this area, they are believed to be able to cure any illness. But they are guarded by poisonous ants who use it to feed their queen. If the party tries to mass collect the herbs the ants will attack.
+18  Every few weeks a strange light emanates from the mountains in the dead of night
+19  Abandoned minecart rails and minecarts run through entire range and can offer a quicker, but more dangerous, way to travel
+20  A stoic Cloud Giant lives near in the peaks of the mountain, they know where the party needs to go to finish their quest. But they will only give directions if they can make the giant laugh. They haven’t laughed in almost a century (This can either be really difficult or really easy to achieve)
+21  Nomadic Bards offer a detour through the mountains. They claim to know a, “Secret Tunnel”, they plan to get the party lost in the cavern network and then rob them.
+22  A crazed old hobgoblin challenges the party to a shield surf race down the snow packed slopes. The first to the bottom gets a prize.
+23  (Prep needed if exploring the dwarven forge) Within the mountain is a dwarven forge and after a serious accident molten metals begin exploding out from the natural vents and caves.
+24  Beautiful crystals line hard to reach cliffs. If your players are fortunate enough to collect some they will unfortunately discover it begins growing on exposed skin
+25  Rock insects have infested the entire range. Their camouflage allows them to be nearly invisible, watch your step of face their wrath
+26  Wounded and dying of exposure, a warrior lies slumped in a pile of snow. She is incredibly strong and is hunting a Warlock who they have sworn to kill.
+27  Strong winds threaten to force the party off the side of the mountain. Is it the wrath of nature or perhaps a supernatural entity?
+28  Fairies dance around a roaring waterfall. They act friendly and offer to heal the party, but beware.. They like to trick people into taking leaps of faith from the waterfall. If the a member goes to the bottom of the waterfall there is a small chest at the bottom of the pool, but they need to survive the jump first.
+29  (Prep needed to build stalactites villages) Numerous quarries line the mountain range. Villages are littered throughout, all of them are hanging upside down like stalactites
+30  A never ending fire burns within a crater. Travelers often come here to collect the flame, it is rumored that a god crashed here eons ago.
+31  The only effective means of travel is a long winding road that forces the party to walk in a single file line. It is not much of an issue until an Orc party discovers the vulnerable party and sets a trap for them from the high ground.
+32  In a ravine the party is passing through there are a series of large stone pillars that are blade shaped. They cut through anything that touches them. The “blades” are razor sharp and they say that they were once the weapons of gods. Several Griffons will swoop overhead and use the blade pillars as a natural trap to kill their prey.
+33  Deep within the blizzarding alps a lone peak is laced with flames. It is home to an ancient Dragon and a Sorcerer who worships and protects their master
+34  Roll for which player who is going to be kidnapped by a Giant. Have fun!
+35  A range of glass mountains shine brilliantly in the light. Their reason for existing is unknown
+36  Clouds swirl around the peak, they are dense and have an almost unnatural appearance to them, as if they were stairs leading up to the heavens, if the party chooses to walk on the clouds they discover an Aarakocra city that is built around a portal to the plane of air. They guard this portal to protect the material plane.
+37  Avalanche! The party are now trapped in a monster’s den. For a more dramatic challenge, all but one player is unconscious
+38  A sickly looking child is wandering alone in the cold, they speak incoherent gibberish. If the party help this child and let them travel along, after reaching a safe destination they will reveal themselves as a spirit of the mountain, rewarding the party with blessings or treasure
+39  The mountain pass is long but not too difficult to traverse. However, this specific path is looping over and over again without end. A wizard is playing a prank on the party, by using illusions to force the party to go in circles. He likes to test how long a party will continue before they realize it. After the party figures it out he wishes to test the most intelligent member to game of intellect.
+40  Flail Snails emerge from the mountain caves at night, their shells lighting up the dark night. They are dangerous but can be easily tamed
+41  A meteor blasts through the summit, the debris rains down upon the party. It is quite deadly if they are hit. The crater is smoking and is home to a new mysterious plant
+42  Smoke blows up from a dozen chimneys atop a bizarrely shaped house. It is home to a shy alchemist who collects rare materials from the alps
+43  Clockwork animals occupy the area. They act like regular animals… All except for Archimedes the glitchy owl. A loud creature that claims to have been created by a space demon, a small crashed spaceship can be found if the party spends the day searching the mountainside
+44  (Prep needed if party follows to find the city) Civilians are traveling all throughout the mountain pass. With all of their belongings they venture toward a developing city in the valley. It’s a great/safe place to make new connections
+45  Spider webbing covers the entrance to a cave. Within the webs a sign reads, “Fortune readings in exchange for beautiful cups or tankards.” Sounds trustworthy enough. Inside is an old tabaxi that has trained two phase spiders. If she does not like the offerings made by the party she will not allow them to leave.
+46  An icy spring protected by a fey spirit who will become angry at anyone who attempts to drink out of it
+47  A camp of miners ask your party to sit down and join them for drinks. They are fascinated by the life of adventure your party leads
+48  Poisonous mist swirls around the sierra, be careful not to lose consciousness while it seeps through your skin
+49  (Prep needed if the party wishes to go to the monastery) Built into the side of the jagged stone, a Monk Temple sits peacefully amidst the storm
+50  Bound to the mountain, a hellish warrior slaughters anyone who enters their domain. They warrior cannot leave his domain (DM discretion how large this area is) They are horrendously powerful and would wipe out any unsuspecting low-level party
+51  Hosting a prestigious singing competition, a Purple Dragon with a tie and top hat invites all to watch this once in a lifetime event. Gods, Spirits, Giants, Beholders, etc.. are all participants
+52  A campfire burns brightly on the side of the road, no one is around. Food is roasting, bottles left unopened, treasure left untouched. Do you search for those who set up this camp or take it for yourselves? It is another party of adventurers who may be on the same quest as you, but for different purposes.
+53  The party comes across a range of cliffs that have the appearance of blood cascading down the sides. The "blood" is an overgrowth of Ruby Blushroses and Undead Bloodroses, which make the area beautiful up close but also sinister. If the party enters the cliff area the aroma of the Bloodroses becomes distinct and the area is heavily populated with undead. Party will be attacked as they try to leave. Those that die in this patch of the mountains become part of the undead that wander within the smell of the Bloodroses. You become attracted to the smell as part of the undead.
+54  Atop the highest peak is a pool of black liquid. Rumors say that those who drink from it have visions of the future. It is a well sought after ingredient for potion making
+55  Frozen in ice a monstrous beast is slowly thawing, it is extremely powerful and once loose it would wreak havoc on all the countryside
+56  During a storm the party while looking for shelter sees an old temple. In the middle of the temple is an altar with an opening that exposes open sky. If a party member approaches and touch the altar lightning will strike the altar and course through the party member. PC takes 3d10 lightning damage, but the party member’s eyes begin to glow as they have gained newfound powers. They’ve been selected by a powerful deity to carry out a prophecy
+57  Thrown from the top of the mountain, a wooden chest filled with cursed magic items has been disposed of, never to be found again. Well until you rolled this random encounter
+58  Hidden away from the rest of the world, an observatory keeps track of planetary movement, stars, and unusual phenomenon. The observatory is run by a elf who is part of a secret organization. The elf is unwilling to part with his secrets that reside within the somber halls.
+59  Single Large Stone Obelisk: The Obelisk is home to the Stoneman. A fey who can earthglide about and loves to insult adventurers. At the base of the Obelisk is a table with pies. The pies are made up of dirt and fungi. Each pie has a different effect. One pie might heal you. One pie might poison you. Roll 1d4 for number of pies, and a D6 for the pie's effect: 1 - Fully Heals the player, 2 - Turns hair grey, stays this way for 3d4 days, 3 - Player’s legs grow twice as long, gain the spell JUMP, cast once a day. Lasts for 1d4+2 days, 4 - PC starts to vomit uncontrollably for 1d4+2 hours, after which it receives resistance to poison for 1d4+1 days, 5 - Player grows an extra set of arms. Last for 3d4+1 hours. Gains a climb speed of 10ft, 6 - Lose 2d4 hit points. Last 1d4+1 days
+60  Stone Well with Arcane Ruins, drinking the water grants the drinker the spell feather fall for one day
+61  Dragon Temple, Archway is cut into the mountain. Inside is a 6ft egg that is all stone. It is on a platform with pillars all around it. There is some weird language write on the walls and the pillars. This is a copper dragon egg, but the mother is away from the nest…for now.
+62  A rope with pitons, old, hanging in the wall above. If the party climbs up to the where the rope ends a set of good climbing gear and a Human mythril pocket watch can be found in a crevice on a ledge with the skeleton of the poor Human, hand bones still stuck between a boulder and the cliffside.
+63  Ancient Stone Pillar that is destroyed.
+64  Cave opening, if Players come inside have a swarm of bats come out at them.
+65  Players come upon a large nest. Inside the nest is 1d4+1 eggs. There is nothing else in the nest right now. Roll d100, 50+ a Roc will show up in 1d4 hours if the eggs are taken and is very angry.
+66  Party finds a cave filled with animals (DM picks, suggestions: Saber Tooth Tiger, Bears, Wolves, Snow Leopard, Deer, Rams, Moose, Foxes, Squirrels, etc. )
+67  Half-Ogre (Brakor), He Lives in a small hut and is Neutral. Around the house is a bunch of bird cages. The Ogre is not going to be hostile to the PC. He protects animals and lives out here because he was rejected by his village.
+68  The party finds in a forgotten cave a body of a great hero placed in the isolated mountains to be naturally mummified encased in ice. The mummy was bound by cairns (large pile of carefully placed stones) that have since collapsed, releasing them as an enraged undead.
+69  The party comes across several druids who follow Silvanus (God of Nature) who are making a holy pilgrimage to an ancient grove high up the mountains. If the party decides to join them they can watch an ancient ritual to Silvanus which only occurs once every 50 years. All manners of beasts and awakened plants will join in the ritual.
+70  The party finds tracks of a large bear and several smaller tracks that are very recent. A mother Bear w/1d4 Cubs will appear from a nearby forested area, they will be nervous and will defend their territory from the intruders.
+71  A bunch of friendly Mage College kids are on spring break and are heading into a cave to do some spelunking, maybe a monster lurks in the cave and the party has to save the kids. Give each kid 2-3 cantrips that they know from Mage College to help in the fight.
+72  Abandoned Mine with lantern, buckets, pickaxe, and shovel present roll a D6 to determine the type of mine: 1 - Picked Clean, 2 - Copper, 3 - Silver, 4 - Mithril, 5 - Lead Ore, 6 - Adamantium
+73  A slow strain of smoke gives hints of a campsite. Roll a D4 to determine who is at the campsite: 1 - Empty - Recently vacated, 2 - Hermit who is tracking the migratory patterns of local birds, 3 - Bandits who were recently attacked by a monster, they are injured and in need of assistance. The monster will return in 10 minutes. 4 - Thugs who are hostile and will attack on sight
+74  A mountain man, is pilfering through a couple of recent corpses scavenging for food and supplies, he is desperate and there is a wild look in his eye.
+75  The party finds on the mountain slopes the skeletons of a giant and a dragon, still locked in mortal combat
+76  The party find a hidden Dwarven watchtower carved into a mountain face. They are not initially friendly if the party goes to investigate, but can be persuaded to let the party in with the right negotiation tactics. (Dwarves love their mead, ale, and spirits)
+77  (Prep needed if party chooses to explore the city) A metal shack has a faint shimmer in the light, inside you discover a hideaway for Deep Gnome Guards. They are playing cards and are willing to make bets with anybody. If friendly enough they may let the party pass through into a Svirfneblin city that is located below the shack. A long deep elevator shaft can take them to city.
+78  The party find a small waterfall that is always frozen. A group of Ice Mephits live here with their pet Polar Bear. If anyone goes to investigate the waterfall closely they will warn the party to stay away, if the party is persistent they will let loose their pet.
+79  (Prep needed if party wishes to investigate the fort) Ruined, abandoned fort heavily fortified in the mountains
+80  The party uncovers a wrecked and frozen hull of some great ship, how did it get up in the mountains?
+81  An elk stampede is coming towards the party. The elk are startled because of Orcs riding Worgs that are hunting the herd, they are hostile if they encounter the party
+82  The party's path is covered in thin ice that could become treacherous to try and cross
+83  A sudden blizzard hits and the party has to make skill checks to attempt to find their way in this blizzard, if they fail they can become disoriented and may need to stop and find a nearby shelter
+84  Heavy snow hits which halves the speed of the party's march this day. It also becomes extremely cold and if the party isn't prepared may suffer levels of exhaustion
+85  A mountain with snow on the top, mid way is covered in cherry blossoms, and the bottom mostly mud and rock. The mountain will look like a god dropped their giant Neapolitan ice-cream.
+86  The players spot a man at the peak of a mountain, standing unmoved by the strong wing staring away at something on the horizon. If they approach him the man explains that he's a sorcerer and is about to spread his daughter's ashes in the wind, with an enchantment on them to grow a maple tree wherever they fall. If they let him, they find the path ahead of them later to be filled with these trees, and occasionally find creatures embedded in them.
+87  Party comes across an Archeologist and his small band on a dig. They are uncovering a monstrous leviathan that may have come from the far realms. If the party helps out the Archeologist a PC may have visions from the far realms and suffer madness as they uncover an artifact. Or they get some boon from the artifact as the artifact can tap into a small amount of a Great Old One's power.
+88  Fresh water mountain stream with small flakes of gold, a prospector is at the stream. He is friendly unless the party tries to steal his gold in the stream.
+89  A Fey Goatman is herding his sheep through the mountains. The fey has lost one his sheep and asks the party to help him look. The Goatman warns these sheep are more unique than what the party is use to. The party can search for the sheep. The sheep are hard to catch as they have the ability to dimension door across the mountainside. A dispel magic, counterspell, or a well timed grapple might be able to help corral the sheep. The Goatman will reward the players for helping him out.
+90  A broken bridge appears before the party with a rushing river beneath. The party needs to figure out how to cross the bridge without falling into the rapids and possibly get hypothermia. A troll or other monster might be living near the bridge.
+91  They find a traveler almost frozen to death, will they give him rations? Lose time by trying to help him back to the village? Leave him to die?
+92  Mountain pool with some beautiful flowers on a small island in the middle of crystal clear pond. There is a statue in the middle. The statue is protected by a Water Genasi and its friend Water Weird. The Genasi is sitting cross-legged meditating on the island. There are sapphires at the bottom of the pond that are easily visible through the clear waters. If a person tries to enter the water the Genasi will warn not to disturb the water, the statue does not like that. If they persist and enter the water to get the sapphires then the water will freeze solid trapping the person underneath the ice or the PC is stuck in place halfway in the water. The Water Weird appears and the Genasi begrudgingly pulls out its greatsword, Roll initiative.
+93  A black knight stands in the path of the party and does not let anyone pass. The black knight will demand a duel. Feel free to add in any Monty Python references you deem necessary.
+94  A Dwarven patrol. Will warn of common dangers in the mountains.
+95  A Hill Giant patrol, which will attack.
+96  Rock slide which has collapsed part of the road. Party must either turn around and waste several hours with an alternate route, or make some climb checks to avoid some damage/being trapped for awhile in a small ravine.
+97  Owlbear wandering by itself. It is quite hungry. With a large amount of food offered, it will follow the party around for a bit and help out for a little while if the party befriended it, if not enough food is given it will see the party as food.
+98  Two mountains that started as one, but now have a giant circular gap in the middle, presumably from a meteor blast. The two mountains converge at a singular point, and that point has a chunk of meteor balancing perfectly on it. If the players decide to interact with the meteor and disturb the balance whatsoever, the two mountains start to collapse and the players must restore the meteor for them to stop
+99  Mountain goat. Will chew on any clothes of any character who comes nearby and will be generally friendly. Can readily climb up and down the mountain with no problem, but cannot carry a humanoid rider. Cannot act like a pack animal, either.
+100 Party comes upon a cave housing a family of Winter Wolves. The beasts will growl warningly if the party tries to enter, and will attack if the party tries to force their way in. The party can continue on past the entrance, but the beasts will follow the party (perception rolls or just general sense of being stalked) and will ultimately attack the party at night if not dealt with beforehand.
 
 
