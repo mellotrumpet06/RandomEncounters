@@ -11,12 +11,23 @@ int main()
 { // ****for now, set up environments, add levels later****
     srand(time(nullptr));
     // open file encounters.txt
-    ifstream in_file;
-    in_file.open("encounters.txt"); // not done yet
+    ifstream inFile("encounters.txt");
+    // check for successful opening
+    if (inFile.is_open()) {
+        // file opened successfully
+    }
+    else {
+        // error opening file
+    }
+    // reading lines from file
+    string encounter;
+    getline(inFile, encounter); // How do you know what line you're reading, how do you use this?
+
     // define variables
     int party_environment;
 
     // ask user party level
+
     // ask user party environment (using switch?)
     cout << "What environment is your party in? \n1: Swamp\n2: Forest\n3: City\n4: Mountains" << endl;
     cin >> party_environment;
@@ -29,7 +40,7 @@ int main()
         string line;
         int lineNumber = 0;
         int wantedLine = random_value;
-        while (getline(in_file, line))
+        while (getline(inFile, line))
         {
             lineNumber++;
             if (lineNumber == wantedLine)
@@ -44,7 +55,7 @@ int main()
         string line;
         int lineNumber = 0;
         int wantedLine = random_value + 102;
-        while (getline(in_file, line))
+        while (getline(inFile, line))
         {
             lineNumber++;
             if (lineNumber == wantedLine)
@@ -59,7 +70,7 @@ int main()
         string line;
         int lineNumber = 0;
         int wantedLine = random_value + 204;
-        while (getline(in_file, line))
+        while (getline(inFile, line))
         {
             lineNumber++;
             if (lineNumber == wantedLine)
@@ -74,7 +85,7 @@ int main()
         string line;
         int lineNumber = 0;
         int wantedLine = random_value + 306;
-        while (getline(in_file, line))
+        while (getline(inFile, line))
         {
             lineNumber++;
             if (lineNumber == wantedLine)
